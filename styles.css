@@ -1,0 +1,56 @@
+/* Seleccionar la etiqueta */
+img {
+    width: 210px;
+    height: auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#intro {
+    width: 100vw;
+    height: 25vh;
+    background-color: rgb(233, 240, 172);
+    position: relative;
+}
+h1 {
+    color: gray;
+    position: absolute;
+    left: 50%;
+    display: inline;
+}
+#about {
+    width: 100vw;
+    height: 25vh;
+    background-color: rgb(142, 198, 212);
+    position: relative;
+}
+
+#h2about{
+    position: absolute;
+    left: 50%;
+    display: inline;
+}
+
+#fun {
+    width: 100vw;
+    height: 25vh;
+    background-color: rgb(160, 230, 154);
+    position: relative;
+}
+#h2fun{
+
+}
+
+#contacto {
+    width: 100vw;
+    height: 25vh;
+    background-color: indianred;
+    position: relative;
+}
+#h2contacto{
+    position: absolute;
+    left: 50%;
+    display: inline;
+}
